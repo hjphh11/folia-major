@@ -1,3 +1,14 @@
+<!-- CLONE-NOTICE:START -->
+> [!IMPORTANT]
+> **本仓库是第三方克隆（clone），非官方仓库，也不是 GitHub Fork。**
+> 源码克隆自 **[chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)**，
+> 基线为 `main` @ `1f2c32a5`（v0.7.13）。代码、文档、图片、界面设计与商标均归原作者及[贡献者](https://github.com/chthollyphile/folia-major/blob/main/CONTRIBUTORS.md)所有，
+> 本仓库仅用于个人 Vercel Web 部署，与原作者**无任何关联**，未获其授权或背书。
+> 许可证为 **AGPL-3.0**（[LICENSE](./LICENSE) 原样保留），请遵守原仓库的[法律与免责声明](https://github.com/chthollyphile/folia-major#法律与免责声明)：
+> 仅限个人学习、技术交流与非营利测试，**禁止商用**。
+> 完整来源说明与差异清单见 **[CLONE-NOTICE.md](./CLONE-NOTICE.md)**。
+<!-- CLONE-NOTICE:END -->
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5d0e863-48be-497b-b0e9-4bd8d8ce9bf0" alt="Folia" width="100%" />
 </p>
